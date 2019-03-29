@@ -8,4 +8,5 @@ def array_with_two_elements
     array_two
 end
 
-def 
+def first_element
+  
